@@ -77,6 +77,13 @@ class BaseTransferInformation implements TransferInformationInterface
     protected $remittanceInformation;
 
     /**
+     * Purpose of this transaction
+     *
+     * @var string
+     */
+    protected $structuredRemittanceInformation;
+
+    /**
      * @param string $amount
      * @param string $iban
      * @param string $name
@@ -209,6 +216,22 @@ class BaseTransferInformation implements TransferInformationInterface
     public function getRemittanceInformation()
     {
         return $this->remittanceInformation;
+    }
+
+    /**
+     * @param string $remittanceInformation
+     */
+    public function setStructuredRemittanceInformation($remittanceInformation)
+    {
+        $this->structuredRemittanceInformation = StringHelper::sanitizeString($remittanceInformation);
+    }
+
+    /**
+     * @return string
+     */
+    public function getStructuredRemittanceInformation()
+    {
+        return $this->structuredRemittanceInformation;
     }
 
 }
