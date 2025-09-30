@@ -42,3 +42,8 @@ Specific version, API stability
 
 * [handling Direct Debit](doc/direct_debit.md)
 * [handling Direct Credit](doc/direct_credit.md)
+
+## Technical debt links
+
+[Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
+[SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu//dashboard?id=clearfacts%3Aphp-sepa-xml)
