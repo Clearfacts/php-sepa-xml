@@ -44,6 +44,7 @@ Specific version, API stability
 * [handling Direct Credit](doc/direct_credit.md)
 
 ## Technical debt links
-
-[Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
-[SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu/dashboard?id=clearfacts%3Aphp-sepa-xml)
+- [Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
+- [SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu/dashboard?id=clearfacts%3Aphp-sepa-xml)
+- [Black Duck Project](https://wolterskluwer.app.blackduck.com/api/projects?q=name:php-sepa-xml)
+- [Checkmarx Project](https://test4tools.cchaxcess.com/CxWebClient/ProjectStateSummary.aspx?projectid=17859)
