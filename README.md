@@ -16,7 +16,7 @@ The versions of the standard followed are:
 
 Institutions and associations that should accept this format:
 * Deutsche Kreditwirtschaft
-* Fédération bancaire française
+* FÃ©dÃ©ration bancaire franÃ§aise
 
 However, always verify generated files with your bank before using!
 
@@ -47,4 +47,4 @@ Specific version, API stability
 - [Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
 - [SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu/dashboard?id=clearfacts%3Aphp-sepa-xml)
 - [Black Duck Project](https://wolterskluwer.app.blackduck.com/api/projects?q=name:php-sepa-xml)
-- [Checkmarx Project](https://test4tools.cchaxcess.com/CxWebClient/ProjectStateSummary.aspx?projectid=17859)
+- [Checkmarx Project](https://test4tools.cchaxcess.com/CxWebClient/ProjectStateSummary.aspx?projectid=18816)
