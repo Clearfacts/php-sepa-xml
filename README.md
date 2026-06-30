@@ -47,7 +47,7 @@ Specific version, API stability
 - [Barometer IT](https://wolterskluwer.barometerit.com/b/system/041800002496)
 - [SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu/dashboard?id=clearfacts%3Aphp-sepa-xml)
 - [Black Duck Project](https://wolterskluwer.app.blackduck.com/api/projects/3d5da9ec-8af1-4c4d-b949-4d74942760dd)
-- [Checkmarx Project](https://test4tools.cchaxcess.com/CxWebClient/ProjectStateSummary.aspx?projectid=18816)
+- [Checkmarx Project](https://test4tools.cchaxcess.com/CxWebClient/ProjectStateSummary.aspx?projectid=17859)
 
 
 Next line is for blackduck to ignore this repo (component count below the WK 15-component threshold)
