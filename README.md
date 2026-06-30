@@ -48,3 +48,7 @@ Specific version, API stability
 - [SonarQube Project](https://sonarqube.cloud-dev.wolterskluwer.eu/dashboard?id=clearfacts%3Aphp-sepa-xml)
 - [Black Duck Project](https://wolterskluwer.app.blackduck.com/api/projects/3d5da9ec-8af1-4c4d-b949-4d74942760dd)
 - [Checkmarx Project](https://test4tools.cchaxcess.com/CxWebClient/ProjectStateSummary.aspx?projectid=18816)
+
+
+Next line is for blackduck to ignore this repo (component count below the WK 15-component threshold)
+- [x] zero dependencies
