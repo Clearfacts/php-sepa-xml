@@ -13,15 +13,12 @@ spec:
   lifecycle: production
   owner: Glenn.Van-Den-Broeck@wolterskluwer.com
 links:
-  - url: "https://sonarqube.cloud-dev.wolterskluwer.eu/dashboard?id=clearfacts%\
-    3Aphp-sepa-xml"
+  - url: "https://sonarqube.cloud-dev.wolterskluwer.eu/dashboard?id=clearfacts%3Aphp-sepa-xml"
     type: SAST
     title: SonarQube
-  - url: "https://wolterskluwer.app.blackduck.com/api/projects/3d5da9ec-8af1-4c\
-    4d-b949-4d74942760dd"
+  - url: "https://wolterskluwer.app.blackduck.com/api/projects/3d5da9ec-8af1-4c4d-b949-4d74942760dd"
     type: SCA
     title: Black Duck
-  - url: "https://test4tools.cchaxcess.com/CxWebClient/ProjectStateSummary.aspx\
-    ?projectid=17859"
+  - url: "https://test4tools.cchaxcess.com/CxWebClient/ProjectStateSummary.aspx?projectid=17859"
     type: SAST
     title: Checkmarx
